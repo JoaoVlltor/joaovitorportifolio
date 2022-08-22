@@ -1,2 +1,2 @@
-# joaovitorportifolio.github.io
+# joaovitorportifolio
 Currículo Do Jornada Dev
